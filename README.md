@@ -1,17 +1,14 @@
 # Instructions
-
 - Clone the repository
 - Create a branch called `technical-challenge` were you will be adding all your work.
 - Update readme with an `Instructions` section explaining how to run/test you implementation.
 
 # Challenge
-
 ### Doubly Linked lists
 
 A doubly linked list is a data structure consisting of nodes, where each node contains data, a reference to the next node in the sequence, and a reference to the previous node.
 
 **Example:**
-
 ```
       head
        |
@@ -28,27 +25,21 @@ A doubly linked list is a data structure consisting of nodes, where each node co
 ```
 
 Your task is to implement a doubly linked list from scratch, supporting the following operations:
-
-- Insert head - listo
-- Insert tail - listo
-- Remove an element - listo
-- Remove repeated elements (Remove all the repetitions matching the given value) - listo
-- Search for an element, returning it's index if found - listo
-- Size of the list - listo
+- Insert head
+- Insert tail
+- Remove an element
+- Remove repeated elements (Remove all the repetitions matching the given value)
+- Search for an element, returning it's index if found
+- Size of the list
 
 Make sure to include an example testing your implementation.
 
 # Additional details
-
 - You can resolve the challenge using the programming language of your preference.
 
 - You have 1 hour to complete the challenge.
 
 - After finishing, upload the changes in a Pull Request, assign it to yourself and request review from Lorenzo Zuluaga ([L-Zuluaga](https://github.com/L-Zuluaga)).
 
-# Additional details
-Para correr el proyecto es necesario
 
-1- Instalar dependencias con npm install
-2- Correr el proeycto con npm run dev
 **Good luck :)**
